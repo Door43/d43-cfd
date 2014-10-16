@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cfd:home|Door43 (cfd)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cfd|d43-cfd repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cfd/archive/master.zip|d43-cfd.zip]]
+
+**Recent Changes**
+{{changes>ns = cfd}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cfd|Ethnologue data]]
+
